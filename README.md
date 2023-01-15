@@ -47,7 +47,7 @@ Aplikacja jest intuicyjna, wszystkie funkcje są czytelne i zrozumiałe, poprawy
 2. Teskty ankiety **'Łączy nas piłka'** oraz **'90 minut'** w dolnej części ekarnu nie są przetłumaczone na język angielski: 
 * _Zalecenie:_ zmiana tłumaczenia 'Łączy nas piłka' na 'Football connects us'
 * _Zalecenie:_ zmiana tłumaczenia '90 minut' na '90 minutes'
-3 Po rozwinięciu menu wyboru województwa tłumaczenia wyświetlają się błędne tłumaczenia na język angielski
+3. Po rozwinięciu menu wyboru województwa tłumaczenia wyświetlają się błędne tłumaczenia na język angielski
 * _Zalecenie:_ poprawa tłumaczeń na nazw województw na język angielski
 4. Poniżej testów z poprzedniego punktu interaktywne przyciski **'SUBMIT'** oraz **'CLEAR'** również nie są przetumaczone na język polski
 * _Zalecenie:_ dodanie tłumaczenia dla przysisku 'SUBMIT' na 'ZAPISZ' 
@@ -69,8 +69,8 @@ Aplikacja jest intuicyjna, wszystkie funkcje są czytelne i zrozumiałe, poprawy
 * _Zalecenie:_ dodanie tłumaczenia dla 'Age' na 'Wiek'
 * _Zalecenie:_ dodanie tłumaczenia dla 'Rate' na 'Recenzja'
 
-Po zastosowanianiu filtów część z nich posiada opis a część ich nie posiada
+4. Po zastosowanianiu filtów część z nich posiada opis a część ich nie posiada
 * _Zalecenie:_ dodanie opisów i tłumaczeń po zastosowaniu filtów 
 
-Po najechaniu myszą na dowolny elelemt sortujący tabelę wyskakujący pop-up **'Sort'** nie jest przetłumacziny na język polski
+5. Po najechaniu myszą na dowolny elelemt sortujący tabelę wyskakujący pop-up **'Sort'** nie jest przetłumacziny na język polski
 * _Zalecenie:_ dodanie tłumaczenia dla 'Sort' na 'Sortuj'
