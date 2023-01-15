@@ -96,6 +96,7 @@ Aplikacja jest intuicyjna, wszystkie funkcje są czytelne i zrozumiałe, poprawy
 *               liga [1 - 10]
 *               czas gry [0 - 180]
 *               numer [1 - 999]
+* _Zalecenie:_ dodanie komentarzy po angielsku oraz polsku w przypadku wprowadzenia wartości poza zakresem
 
 7. Okno ankiety **'Recenzja'** jest ograniczone od 0 do 5, w przypadku wprowadzenia wartości ujemnej lub większej niż 5 pojawia się jeden z dwóch komentarzy: **'Wartość nie może być mniejsza niż zero'** lub **'Wartość nie może być większa niż 5'**, komentarze te nie są przetłumaczone na język angielski. 
 * _Zalecenie:_ dodanie tłumaczenia dla komenatrza na 'Wartość nie może być mniejsza niż zero' na język angielski 'Value can't be negative' 
