@@ -74,16 +74,40 @@ Aplikacja jest intuicyjna, wszystkie funkcje są czytelne i zrozumiałe, poprawy
 1. Teskty ankiety **'Web Mech'** oraz **'General'** nie są przetłumaczone na język polski 
 * _Zalecenie:_ dodanie tłumaczenia 'Web Mech' na 'Mecz w sieci'
 * _Zalecenie:_ zmiana tłumaczenia 'General' na 'Ogólne'
-2.Poniżej testów z poprzedniego punktu interaktywne przyciski **'SUBMIT'** oraz **'CLEAR'** również nie są przetumaczone na język polski
+  
+2. Poniżej testów z poprzedniego punktu interaktywne przyciski **'SUBMIT'** oraz **'CLEAR'** również nie są przetumaczone na język polski
 * _Zalecenie:_ dodanie tłumaczenia dla przysisku 'SUBMIT' na 'WYŚLIJ' 
 * _Zalecenie:_ dodanie tłumaczenia dla przycisku 'CLEAR' na 'WYCZYŚĆ'
-3.Uzupełnienie ankiedy dodawania nowego meczu - brak ograniczeń logicznych podczas podawania daty meczu
+  
+3. Uzupełnienie ankiedy dodawania nowego meczu - brak ograniczeń logicznych podczas podawania daty meczu
 * _Zalecenie:_ ograniczenie możliwości podania daty tylko do takiej która faktycznie może wystąpić
-4. Uzupełnienie ankiedy dodawania nowego gracza - brak ograniczeń długości wprowadzanych wartości w ankiecie 
+  
+4. Uzupełnienie ankiedy dodawania nowego meczu - brak ograniczeń długości wprowadzanych wartości w ankiecie 
 * _Zalecenie:_ ograniczenie ilości znaków wprowadzanych w poszczególnych polach ankiety
   
+5. Uzupełnienie ankiedy dodawania nowego meczu - brak czerwonego powiadomienia w przypadku próby zapisu przy jednoczensym braku wyboru jednej z 2 wymaganych opcji 'mecz domowy' lub 'mecz wyjazdowy'. 
+* _Zalecenie:_ dodanie czerwonej inforamcji o konieczności wybrania jednej z dwóch opcji
+  
+6. Uzupełnienie ankiedy dodawania nowego meczu - brak ograniczeń logicznych podczas podawania wartoścli liczbowych - zdobyte gole, stracone gole, data, liga, czas gry, numer
+* _Zalecenie:_ ograniczenie tylko do przedziału wartości liczbowych które faktycznie mogą wystąpić 
+*               zdobyte gole [0 - 99]
+*               stracone gole [0 - 99]
+*               data [01.01.1999 - aktualna data]
+*               liga [1 - 10]
+*               czas gry [0 - 180]
+*               numer [1 - 999]
+
+7. Okno ankiety **'Recenzja'** jest ograniczone od 0 do 5, w przypadku wprowadzenia wartości ujemnej lub większej niż 5 pojawia się jeden z dwóch komentarzy: **'Wartość nie może być mniejsza niż zero'** lub **'Wartość nie może być większa niż 5'**, komentarze te nie są przetłumaczone na język angielski. 
+* _Zalecenie:_ dodanie tłumaczenia dla komenatrza na 'Wartość nie może być mniejsza niż zero' na język angielski 'Value can't be negative' 
+* _Zalecenie:_ dodanie tłumaczenia dla komenatrza na 'Wartość nie może być większa niż 5' na język angielski 'Value can't be grater then 5' 
+
+  
 <p align="center">========== STRONA TWORZENIE RAPORTU MECZU DLA ISTNIEJĄCEGO GRACZA ==========</>  
-1. Przycisk **'SAVE'** nie jest przetłumaczony na język polski
+
+1. Przycisk **'DODAJ RAPORT'** przenosi do okna dodawnia meczu a nie do okna dodawnia raportu
+* _Zalecenie:_ poprawa akcji przycisku 'DODAJ RAPORT' na aktywację dodania nowego raportu
+
+2. Przycisk **'SAVE'** nie jest przetłumaczony na język polski
 * _Zalecenie:_ dodanie tłumaczenia dla przysisku 'SAVE' na 'ZAPISZ'
 
 <p align="center">========== STRONA Z LISTĄ GRACZY ==========</>
