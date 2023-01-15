@@ -32,30 +32,38 @@ test4
 
 * _Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)_
 
-1. Na stronie głównej po zmianie języka polski/angielski tekst przycisku **'DEV TEAM CONTACT'** nie jest przetłumaczony na język polski. 
+<p align="center">========== STRONA GÓWNA ==========</>
+
+1. Po zmianie języka polski/angielski tekst przycisku **'DEV TEAM CONTACT'** nie jest przetłumaczony na język polski. 
 * _Zalecenie:_ dodatnie tłumaczenia 'DEV TEAM CONTACT' na 'Skontaktuj się z twórcami strony
-2.  Na stronie głównej po zmianie języka polski/angielski nazwa strony **'Scouts Panel'** nie jest przetłumaczony na język polski. 
+2.  Po zmianie języka polski/angielski nazwa strony **'Scouts Panel'** nie jest przetłumaczony na język polski. 
 * _Zalecenie:_ dodatnie tłumaczenia 'Panel skautów'
-3. Na stonie dodawania nowego gracza teskty ankiety **'Data urodzenia'** jest przetłuamczony na język angielski jako **'Age'**, tłumaczenie jest nie spójne. 
+
+<p align="center">========== STRONA DODAWANIA NOWEGO GRACZA ==========</>
+
+1. Teskty ankiety **'Data urodzenia'** jest przetłuamczony na język angielski jako **'Age'**, tłumaczenie jest nie spójne. 
 * _Zalecenie:_ zamiana angielskiego tłumaczenia na 'Date of birth'
-4. Na stonie dodawania nowego gracza teskty ankiety **'Łączy nas piłka'** oraz **'90 minut'** w dolnej części ekarnu nie są przetłumaczone na język angielski: 
+2. Teskty ankiety **'Łączy nas piłka'** oraz **'90 minut'** w dolnej części ekarnu nie są przetłumaczone na język angielski: 
 * _Zalecenie:_ zmiana tłumaczenia 'Łączy nas piłka' na 'Football connects us'
 * _Zalecenie:_ zmiana tłumaczenia '90 minut' na '90 minutes'
-4.1 Na stonie dodawania nowego gracza po rozwinięciu menu wyboru województwa tłumaczenia wyświetlają się błędne tłumaczenia na język angielski
+3 Po rozwinięciu menu wyboru województwa tłumaczenia wyświetlają się błędne tłumaczenia na język angielski
 * _Zalecenie:_ poprawa tłumaczeń na nazw województw na język angielski
-5. Na stonie dodawania nowego gracza poniżej testów z poprzedniego punktu interaktywne przyciski **'SUBMIT'** oraz **'CLEAR'** również nie są przetumaczone na język polski
+4. Poniżej testów z poprzedniego punktu interaktywne przyciski **'SUBMIT'** oraz **'CLEAR'** również nie są przetumaczone na język polski
 * _Zalecenie:_ dodanie tłumaczenia dla przysisku 'SUBMIT' na 'ZAPISZ' 
 * _Zalecenie:_ dodanie tłumaczenia dla przycisku 'CLEAR' na 'WYCZYŚĆ' 
-6. Na stonie z listą graczy opis interaktywnych przycisków nie jest przetłumaczony na język polski. 
+
+<p align="center">========== STRONA Z LISTĄ GRACZY ==========</>
+
+1. Opis interaktywnych przycisków nie jest przetłumaczony na język polski. 
 * _Zalecenie:_ dodanie tłumaczenia dla opisu przysisku 'Download CSV' na 'Pobierz CSV' 
 * _Zalecenie:_ dodanie tłumaczenia dla opisu przysisku 'Print' na 'Drukuj' 
 * _Zalecenie:_ dodanie tłumaczenia dla opisu przysisku 'View Columnts' na 'Pokaż kolumny' 
 * _Zalecenie:_ dodanie tłumaczenia dla opisu przysisku 'Filter Tables' na 'Filtruj tabelę' 
 
-Dodatkowo po wybraniu 'View Columnts' w interaktywnym pop-up tekst 'Show Columns' nie jest przetłumaczony na język polski.
+2. Dodatkowo po wybraniu 'View Columnts' w interaktywnym pop-up tekst 'Show Columns' nie jest przetłumaczony na język polski.
 * _Zalecenie:_ dodanie tłumaczenia dla opisu przysisku 'Show Columns' na 'Pokaż kolumny'
 
-Oraz po wybraniu po wybraniu 'Filter Tables' w interaktywnym pop-up teksty 'Filter', 'Age', oraz 'Rate; nie są przetłumaczone na język polski.
+3.Oraz po wybraniu po wybraniu 'Filter Tables' w interaktywnym pop-up teksty 'Filter', 'Age', oraz 'Rate; nie są przetłumaczone na język polski.
 * _Zalecenie:_ dodanie tłumaczenia dla 'Filter' na 'Filtruj'
 * _Zalecenie:_ dodanie tłumaczenia dla 'Age' na 'Wiek'
 * _Zalecenie:_ dodanie tłumaczenia dla 'Rate' na 'Recenzja'
