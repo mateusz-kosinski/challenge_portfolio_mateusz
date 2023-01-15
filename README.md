@@ -50,8 +50,41 @@ Aplikacja jest intuicyjna, wszystkie funkcje są czytelne i zrozumiałe, poprawy
 3. Po rozwinięciu menu wyboru województwa tłumaczenia wyświetlają się błędne tłumaczenia na język angielski
 * _Zalecenie:_ poprawa tłumaczeń na nazw województw na język angielski
 4. Poniżej testów z poprzedniego punktu interaktywne przyciski **'SUBMIT'** oraz **'CLEAR'** również nie są przetumaczone na język polski
-* _Zalecenie:_ dodanie tłumaczenia dla przysisku 'SUBMIT' na 'ZAPISZ' 
-* _Zalecenie:_ dodanie tłumaczenia dla przycisku 'CLEAR' na 'WYCZYŚĆ' 
+* _Zalecenie:_ dodanie tłumaczenia dla przysisku 'SUBMIT' na 'WYŚLIJ' 
+* _Zalecenie:_ dodanie tłumaczenia dla przycisku 'CLEAR' na 'WYCZYŚĆ'
+5. Uzupełnienie ankiedy dodawania nowego gracza - w przypadku nie podania wymaganej wartości wejściowej brak tłumaczenia czerwonego komenatarza **'Required'** na język polski
+* _Zalecenie:_ dodanie tłumaczenia dla czerwonego komentarza 'Required' na 'Wymagane'
+6. Uzupełnienie ankiedy dodawania nowego gracza - po podaniu nieprawidłowego adresu email wyświetla się oglny błąd **'Nie udało się dodać gracza'** 
+* _Zalecenie:_ dodanie szczegółowego opisu przyczyny dla której nie możemy dodać gracza 'Podaj prawidłowy adres mailowy'
+7. Uzupełnienie ankiedy dodawania nowego gracza - możliwość wpisania liter w oknie numeru telefonu 
+* _Zalecenie:_ ograniczenie tylko do cyf 
+8. Uzupełnienie ankiedy dodawania nowego gracza - brak ograniczeń logicznych podczas podawania wartoścli liczbowych - wiek, numer telefony, waga, wzrost
+* _Zalecenie:_ ograniczenie tylko do przedziału wartości liczbowych które faktycznie mogą wystąpić 
+*               wiek [0 - 99]
+*               waga [5 - 199]
+*               wzrost [5 - 199]
+*               numer telefonu [000000000 - 999999999]
+9. Uzupełnienie ankiedy dodawania nowego gracza - brak ograniczeń logicznych podczas podawania linków do mediów socjalnych: facebook oraz youtube.
+* _Zalecenie:_ sprawdzanie czy wpisana wartość jest pusta lub posiada zakończenie '.www'
+10. Uzupełnienie ankiedy dodawania nowego gracza - brak ograniczeń długości wprowadzanych wartości w ankiecie 
+* _Zalecenie:_ ograniczenie ilości znaków wprowadzanych w poszczególnych polach ankiety
+
+<p align="center">========== STRONA DODAWANIE NOWEGO MECZU DLA ISTNIEJĄCEGO GRACZA ==========</>
+  
+1. Teskty ankiety **'Web Mech'** oraz **'General'** nie są przetłumaczone na język polski 
+* _Zalecenie:_ dodanie tłumaczenia 'Web Mech' na 'Mecz w sieci'
+* _Zalecenie:_ zmiana tłumaczenia 'General' na 'Ogólne'
+2.Poniżej testów z poprzedniego punktu interaktywne przyciski **'SUBMIT'** oraz **'CLEAR'** również nie są przetumaczone na język polski
+* _Zalecenie:_ dodanie tłumaczenia dla przysisku 'SUBMIT' na 'WYŚLIJ' 
+* _Zalecenie:_ dodanie tłumaczenia dla przycisku 'CLEAR' na 'WYCZYŚĆ'
+3.Uzupełnienie ankiedy dodawania nowego meczu - brak ograniczeń logicznych podczas podawania daty meczu
+* _Zalecenie:_ ograniczenie możliwości podania daty tylko do takiej która faktycznie może wystąpić
+4. Uzupełnienie ankiedy dodawania nowego gracza - brak ograniczeń długości wprowadzanych wartości w ankiecie 
+* _Zalecenie:_ ograniczenie ilości znaków wprowadzanych w poszczególnych polach ankiety
+  
+<p align="center">========== STRONA TWORZENIE RAPORTU MECZU DLA ISTNIEJĄCEGO GRACZA ==========</>  
+1. Przycisk **'SAVE'** nie jest przetłumaczony na język polski
+* _Zalecenie:_ dodanie tłumaczenia dla przysisku 'SAVE' na 'ZAPISZ'
 
 <p align="center">========== STRONA Z LISTĄ GRACZY ==========</>
 
