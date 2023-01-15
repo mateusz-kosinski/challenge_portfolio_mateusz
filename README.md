@@ -16,7 +16,7 @@ Cześć, mam na imię Mateusz, zdecydowałem się wziąć udział w kursie ponie
 
 * _Na czym polega ta aplikacja? Do czego służy?_
 
-Aplikacja pełni funkcję bazy danych z zapisanymi skautami, aplikacja służy do dodawania nowych graczy oraz przeglądania i filtrownia aktualnie zapisanych profili graczy.
+Aplikacja pełni funkcję bazy danych z zapisanymi skautami, aplikacja służy do dodawania nowych graczy oraz przeglądania i filtrownia aktualnie zapisanych profili.
 
 * _Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)_
 
@@ -35,10 +35,10 @@ Aplikacja jest intuicyjna, wszystkie funkcje są czytelne i zrozumiałe, poprawy
 
 <p align="center">========== STRONA GÓWNA ==========</>
 
-1. Po zmianie języka polski/angielski tekst przycisku **'DEV TEAM CONTACT'** nie jest przetłumaczony na język polski. 
-* _Zalecenie:_ dodatnie tłumaczenia 'DEV TEAM CONTACT' na 'Skontaktuj się z twórcami strony
-2.  Po zmianie języka polski/angielski nazwa strony **'Scouts Panel'** nie jest przetłumaczony na język polski. 
+1.  Po zmianie języka polski/angielski nazwa strony **'Scouts Panel'** nie jest przetłumaczony na język polski. 
 * _Zalecenie:_ dodatnie tłumaczenia 'Panel skautów'
+2. Po zmianie języka polski/angielski tekst przycisku **'DEV TEAM CONTACT'** nie jest przetłumaczony na język polski. 
+* _Zalecenie:_ dodatnie tłumaczenia 'DEV TEAM CONTACT' na 'Skontaktuj się z twórcami strony
 
 <p align="center">========== STRONA DODAWANIA NOWEGO GRACZA ==========</>
 
@@ -61,10 +61,10 @@ Aplikacja jest intuicyjna, wszystkie funkcje są czytelne i zrozumiałe, poprawy
 * _Zalecenie:_ dodanie tłumaczenia dla opisu przysisku 'View Columnts' na 'Pokaż kolumny' 
 * _Zalecenie:_ dodanie tłumaczenia dla opisu przysisku 'Filter Tables' na 'Filtruj tabelę' 
 
-2. Dodatkowo po wybraniu 'View Columnts' w interaktywnym pop-up tekst 'Show Columns' nie jest przetłumaczony na język polski.
+2. Dodatkowo po wybraniu 'View Columnts' w interaktywnym pop-up tekst **'Show Columns'** nie jest przetłumaczony na język polski.
 * _Zalecenie:_ dodanie tłumaczenia dla opisu przysisku 'Show Columns' na 'Pokaż kolumny'
 
-3.Oraz po wybraniu po wybraniu 'Filter Tables' w interaktywnym pop-up teksty 'Filter', 'Age', oraz 'Rate; nie są przetłumaczone na język polski.
+3. Oraz po wybraniu po wybraniu 'Filter Tables' w interaktywnym pop-up teksty **'Filter'**, **'Age'**, oraz **'Rate'**, nie są przetłumaczone na język polski.
 * _Zalecenie:_ dodanie tłumaczenia dla 'Filter' na 'Filtruj'
 * _Zalecenie:_ dodanie tłumaczenia dla 'Age' na 'Wiek'
 * _Zalecenie:_ dodanie tłumaczenia dla 'Rate' na 'Recenzja'
@@ -72,5 +72,5 @@ Aplikacja jest intuicyjna, wszystkie funkcje są czytelne i zrozumiałe, poprawy
 Po zastosowanianiu filtów część z nich posiada opis a część ich nie posiada
 * _Zalecenie:_ dodanie opisów i tłumaczeń po zastosowaniu filtów 
 
-Po najechaniu myszą na dowolny elelemt sortujący tabelę wyskakujący pop-up *'Sort'* nie jest przetłumacziny na język polski
+Po najechaniu myszą na dowolny elelemt sortujący tabelę wyskakujący pop-up **'Sort'** nie jest przetłumacziny na język polski
 * _Zalecenie:_ dodanie tłumaczenia dla 'Sort' na 'Sortuj'
