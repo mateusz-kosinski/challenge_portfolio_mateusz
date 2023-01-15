@@ -16,19 +16,20 @@ Cześć, mam na imię Mateusz, zdecydowałem się wziąć udział w kursie ponie
 
 * _Na czym polega ta aplikacja? Do czego służy?_
 
-test1
+Aplikacja pełni funkcję bazy danych z zapisanymi skautami, aplikacja służy do dodawania nowych graczy oraz przeglądania i filtrownia aktualnie zapisanych profili graczy.
 
 * _Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)_
 
-test2
+Apliakcja posiada możliwość dodawnia nowych graczy do bazy danych jak i filtorowania oraz eksportu aktualnie zapisanych graczy. Każdy gracz posiada swoje indywiduane statystyki, nazwę drużycy, pozycję oraz informację o wieku. 
+
 
 * _Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?_
 
-test3
+Interfejs aplikacji jest prosty i czytelny, brakuje w nim ciemnego trybu wyświetlania. 
 
 * _Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu)._
 
-test4
+Aplikacja jest intuicyjna, wszystkie funkcje są czytelne i zrozumiałe, poprawy wymaga tłumaczenie interfejsu jak i okien pop-up. Szczególną uwagę należy również zwrócić na logikę danych zawartych w eksportowanym pliku CSV. Aktualnie formatowanie pliku należy wykonać ręczenie ponieważ wszystkie eksportowane kolumny są zapisane w jednej komórce. 
 
 * _Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)_
 
@@ -73,8 +74,3 @@ Po zastosowanianiu filtów część z nich posiada opis a część ich nie posia
 
 Po najechaniu myszą na dowolny elelemt sortujący tabelę wyskakujący pop-up *'Sort'* nie jest przetłumacziny na język polski
 * _Zalecenie:_ dodanie tłumaczenia dla 'Sort' na 'Sortuj'
-
-
-
-
-test5
