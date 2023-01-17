@@ -33,10 +33,27 @@ Aplikacja jest intuicyjna, wszystkie funkcje są czytelne i zrozumiałe, poprawy
 
 * _Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)_
 
+
+Adres Strony: **https://scouts-test.futbolkolektyw.pl/pl**
+
+Dostęp: **Niedziela, 15.01.2023** 
+
+Przeglądarka: **Google Chrome** 
+
+Wersja przeglądarki: **108.0.5359.125 (Oficjalna wersja) (64-bitowa)**
+
+Zainstalowane wtyczki: **Adblock 5.3.3**
+
+System operacyjny: **Windows 10 Enterprise**
+
+Kompilacja systemu operacyjnego: **19045.2251**
+
+
+
 <p align="center">========== STRONA GÓWNA ==========</>
 
 1.  Po zmianie języka polski/angielski nazwa strony **'Scouts Panel'** nie jest przetłumaczony na język polski. 
-* _Zalecenie:_ dodatnie tłumaczenia 'Panel skautów'
+* _Zalecenie:_ dodatnie tłumaczenia 'Scouts Panel' na 'Panel skautów'
 2. Po zmianie języka polski/angielski tekst przycisku **'DEV TEAM CONTACT'** nie jest przetłumaczony na język polski. 
 * _Zalecenie:_ dodatnie tłumaczenia 'DEV TEAM CONTACT' na 'Skontaktuj się z twórcami strony
 
