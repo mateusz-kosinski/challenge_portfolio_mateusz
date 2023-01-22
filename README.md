@@ -149,3 +149,24 @@ Kompilacja systemu operacyjnego: **19045.2251**
 
 5. Po najechaniu myszą na dowolny elelemt sortujący tabelę wyskakujący pop-up **'Sort'** nie jest przetłumacziny na język polski
 * _Zalecenie:_ dodanie tłumaczenia dla 'Sort' na 'Sortuj'
+
+
+# Task 2
+
+## Subtask 1
+
+https://docs.google.com/spreadsheets/d/1R3ANkhl0O9SZR40VY1GDoAG7zKr1tzWREOYjkV97Qv8/edit?usp=share_link
+
+## Subtask 2
+
+https://docs.google.com/spreadsheets/d/1FtkVwebzX8ZETDHg50wVG3iLMW6tQMRduzTh_0jd_AI/edit?usp=share_link
+
+## Subtask 3
+
+https://www.youtube.com/watch?v=OO3FANjwKHY&ab_channel=Barteky94
+
+<https://www.youtube.com/watch?v=OO3FANjwKHY&ab_channel=Barteky94>
+
+## Subtask 4
+
+
