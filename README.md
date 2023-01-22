@@ -165,7 +165,13 @@ https://docs.google.com/spreadsheets/d/1FtkVwebzX8ZETDHg50wVG3iLMW6tQMRduzTh_0jd
 
 https://www.youtube.com/watch?v=OO3FANjwKHY&ab_channel=Barteky94
 
+{% raw %}
 {% include youtube.html id="JLMbpiywVxQ" %}  
+{% endraw %}
+
+(https://img.youtube.com/vi/OO3FANjwKHY/maxresdefault.jpg)
+(https://www.youtube.com/watch?v=OO3FANjwKHY)
+
 
 ## Subtask 4
 
