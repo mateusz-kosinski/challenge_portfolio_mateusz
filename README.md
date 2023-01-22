@@ -163,6 +163,8 @@ https://docs.google.com/spreadsheets/d/1FtkVwebzX8ZETDHg50wVG3iLMW6tQMRduzTh_0jd
 
 ## Subtask 3
 
+Pisanie przypadków testowych 
+
 https://www.youtube.com/watch?v=OO3FANjwKHY&ab_channel=Barteky94
 
 {% raw %}
