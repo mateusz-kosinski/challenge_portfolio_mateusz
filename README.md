@@ -163,7 +163,7 @@ https://docs.google.com/spreadsheets/d/1FtkVwebzX8ZETDHg50wVG3iLMW6tQMRduzTh_0jd
 
 ## Subtask 3
 
-Pisanie przypadków testowych 
+Pisanie przypadków testowych służy zapewnieniu maksymalnego możliwego spełnienia wymagań klienta oraz upewnienia się o płynnym i stabilnym działaniu testowanej aplikacji.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/cSh551cdIEY/0.jpg)](http://www.youtube.com/watch?v=cSh551cdIEY "Video Title")
 
