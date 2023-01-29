@@ -170,3 +170,17 @@ Pisanie przypadków testowych służy zapewnieniu maksymalnego możliwego spełn
 ## Subtask 4
 
 
+# Task 3
+
+## Subtask 1
+
+https://drive.google.com/drive/u/0/folders/1ZnCo6U3HzSTGdUYYziAGEhvd0xWXvIsI
+
+## Subtask 2
+
+https://docs.google.com/spreadsheets/d/1Xnv2jcQOmDNjlzsVLvOnNHrBcMAPCUnXIQz2AyD2sTY/edit?usp=share_link
+
+https://docs.google.com/spreadsheets/d/1SGlq0hse7BhK2VIibqDxfvlLoI9V7aunQT8vQW_7qus/edit?usp=share_link
+
+## Subtask 2
+
