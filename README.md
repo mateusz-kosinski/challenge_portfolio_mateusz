@@ -188,3 +188,23 @@ https://docs.google.com/document/d/1wWPUudMm7A9zY6bA7yLL2TWSz84dIrl23fCEPduV-SY/
   
 ## Subtask 4
   
+# Task 4
+
+## Subtask 1
+
+https://docs.google.com/spreadsheets/d/1HoRgHtSxrdcjSbUgiMGEH2D69_pVYc2pnSgtjGQo7b0/edit#gid=1696890496
+
+## Subtask 2
+
+https://docs.google.com/spreadsheets/d/1XJRJpZql-bahwatOzSjSns5RILCO3IZR66O9nrQEihg/edit#gid=2123866427
+
+## Subtask 3
+
+Aplikacja służy do wystawiania ogłoszeń sprzedaży lub chęci kupna dóbr i usług. 
+
+Końcowym użytkownikiem ma być każdy użytkownik który szuka konkurencyjnych ofert w Internecie.
+
+Aplikacja jest przyjazna użytkownikowi, działa płynnie. Czcionka, wszystkie ikony oraz przyciski działają prawidłowo i są intuicyjne.
+
+Dodał bym możliwość logowania przy użyciu samej aplikacji. Aplikacja wymusza po wybraniu opcji zaloguj przejścia do przeglądarki internetowej i zalogowania się na stronie internetowej w przeglądarce. Wymaga to posiadania przeglądarki oraz podawania w niej danych naszego logowania. Stwarza to np. zagrożenie przypadkowego zapisania danych logowania w przeglądarce jeśli tego nie chcemy.
+
