@@ -7,6 +7,9 @@
 
 * 6/10 punktow
 
+## Subtask 2
+
+https://github.com/mateusz-kosinski
 
 ## Subtask 3
 
@@ -185,8 +188,6 @@ https://docs.google.com/spreadsheets/d/1SGlq0hse7BhK2VIibqDxfvlLoI9V7aunQT8vQW_7
 ## Subtask 3
 
 https://docs.google.com/document/d/1wWPUudMm7A9zY6bA7yLL2TWSz84dIrl23fCEPduV-SY/edit?usp=share_link
-  
-## Subtask 4
   
 # Task 4
 
