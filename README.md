@@ -208,4 +208,24 @@ Końcowym użytkownikiem ma być każdy użytkownik który szuka konkurencyjnych
 Aplikacja jest przyjazna użytkownikowi, działa płynnie. Czcionka, wszystkie ikony oraz przyciski działają prawidłowo i są intuicyjne. Znaczna ilość wyskakujących powiadomień pop-up na głównym ekranie po każdorazowym uruchomieniu aplikacji opóźnia i pogarsza płynne rozpoczęcie wyszukiwania.
 
 Dodał bym możliwość logowania przy użyciu samej aplikacji. Aplikacja wymusza po wybraniu opcji zaloguj przejścia do przeglądarki internetowej i zalogowania się na stronie internetowej w przeglądarce. Wymaga to posiadania przeglądarki oraz podawania w niej danych naszego logowania. Stwarza to np. zagrożenie przypadkowego zapisania danych logowania w przeglądarce jeśli tego nie chcemy.
+  
+# Task 5
+
+## Subtask 1
+
+
+
+## Subtask 2
+
+
+
+## Subtask 3
+
+
+
+## Subtask 4
+
+
+
+
 
