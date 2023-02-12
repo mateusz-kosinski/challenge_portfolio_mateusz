@@ -237,7 +237,7 @@ https://www.apachefriends.org/pl/index.html
   
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
   
-  * SELECT title, price FROM `movies` WHERE `price` < 7;
+  * SELECT `title`, `price` FROM `movies` WHERE `price` < 7;
   
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
   
