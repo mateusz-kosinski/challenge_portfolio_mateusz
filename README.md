@@ -303,9 +303,14 @@ https://www.apachefriends.org/pl/index.html
   
   12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
   
+  * SELECT sale.customer_id, sale.movie_id, customers.email FROM `sale`, `customers` WHERE sale.customer_id = customers.customer_id and sale.movie_id = 4;
   
+  ![image](https://user-images.githubusercontent.com/122534305/219942859-914ccbda-f0b1-4e88-a265-7c9f0c8cc469.png)
+
   
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+  
+  * UPDATE customers SET email='pati@mail.com' WHERE customer_ID=4;
   
   ![image](https://user-images.githubusercontent.com/122534305/219853028-2bc3394c-3561-4339-8ec2-8f289a3057be.png)
 
@@ -326,7 +331,15 @@ https://www.apachefriends.org/pl/index.html
   
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
   
+  * SELECT actors.name 
+    from actors
+    UNION
+    SELECT customers.name
+    FROM customers 
+    ORDER by name ASC
   
+  ![image](https://user-images.githubusercontent.com/122534305/219943347-e19b14c0-4a95-4d0c-ae09-74d2d6738650.png)
+
   
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
   
