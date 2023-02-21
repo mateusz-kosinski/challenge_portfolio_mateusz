@@ -354,6 +354,7 @@ https://www.apachefriends.org/pl/index.html
   
 ##Subtask 2
 
-##Subtask 3
+UDZIELONO ODPOWIEDZI DOBRZE NA 9 Z 15
+
 
 
